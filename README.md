@@ -1,4 +1,4 @@
 # World-Share
 Stores files for public viewing
 
-This is the where Tim Whitcher.
+This is where Tim Whitcher will place files.
